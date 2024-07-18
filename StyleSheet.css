@@ -1,0 +1,45 @@
+﻿body {
+
+}
+#box-1{
+    background-color:#313446;
+}
+#nav-bg{
+    background-color:#313446;
+}
+#logo{
+    width:200px;
+    height:200px;
+}
+#Student-login{
+    color:#1A2130;
+}
+#Student-login:Hover{
+    color:#ffffff;
+    background-color:#EF6603;
+}
+#Department-login{
+    color:#1A2130;
+}
+#Department-login:Hover{
+    color:#ffffff;
+    background-color:#EF6603;
+}
+#Read-more{
+ color:#1A2130;
+ border-color:#EF6603;
+}
+#Read-more:hover{
+ color:#ffffff;
+    background-color:#EF6603;
+}
+#tech{
+    color:#000000;
+    cursor:pointer;
+}
+#tech:hover{
+    color:#EF6603;
+}
+#tel{
+    color:#EF6603;
+}
